@@ -19,8 +19,13 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<a href="https://www.linkedin.com/in/harshit-sharma-a27007253/" target="_blank">
+  <img align="left" alt="Harshit Sharma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(100%);">
+</a>
+<a href="https://www.instagram.com/harshit.bd01/?hl=en" target="_blank">
+  <img align="left" alt="Harshit Sharma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="filter: invert(100%);">
+</a>
+
 
 [instagram]: https://www.instagram.com/harshit.bd01/?hl=en
 [linkedin]: https://www.linkedin.com/in/harshit-sharma-a27007253/
