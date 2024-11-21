@@ -6,7 +6,7 @@
 
   - [sellhole](https://github.com/Harshit057/sellhole)
   - [e-commerce website](https://github.com/Harshit057/shoppingwala)
-  - [basic website](https://github.com/Harshit057/basic-website)
+  - [Leetcode](https://github.com/Harshit057/leetcode)
   - [HTML resume](https://github.com/Harshit057/newfold)
   - [dropdown menu description website](https://github.com/Harshit057/dropdown-menue)
   - [dino chess game using HTML,CSS,js](https://github.com/Harshit057/dinochess)
