@@ -20,17 +20,12 @@
 <h2> 🤳 Connect with me:</h2>
 
 <a href="https://www.linkedin.com/in/harshit-sharma-a27007253/" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="white">
-    <path d="M0 0h24v24H0z" fill="none"/>
-    <path d="M9 2c-1.1 0-1.99.9-1.99 2L7 20c0 1.1.9 2 2 2h8c1.1 0 2-.9 2-2V4c0-1.1-.9-2-2-2h-8zm0 2h8v16H9V4z"/>
-  </svg>
+  <img align="left" alt="Harshit Sharma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" style="filter: invert(100%);">
+</a>
+<a href="https://www.instagram.com/harshit.bd01/?hl=en" target="_blank">
+  <img align="left" alt="Harshit Sharma | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" style="filter: invert(100%);">
 </a>
 
-<a href="https://www.instagram.com/harshit.bd01/?hl=en" target="_blank">
-  <svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 24 24" fill="white">
-    <path d="M12 2c2.2 0 4 1.8 4 4s-1.8 4-4 4-4-1.8-4-4 1.8-4 4-4zm0 6c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zM6 7c1.4 0 2.6.2 3.8.6l.6 1.8L12 12l1.6-2.6.6-1.8C15.4 7.2 16.6 7 18 7c3.3 0 6 2.7 6 6s-2.7 6-6 6c-1.5 0-3-.5-4.2-1.4l-.6-1.8L12 12l-1.6 2.6-.6 1.8C8.6 16.8 7.4 17 6 17c-3.3 0-6-2.7-6-6s2.7-6 6-6z"/>
-  </svg>
-</a>
 
 
 [instagram]: https://www.instagram.com/harshit.bd01/?hl=en
