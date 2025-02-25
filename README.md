@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on sellhole a website connecting urban buyers to rural sellers<br>I am a software engineer <br>i know cyber security <br>a web developer
+I am good with Algorithms<br>I am a software engineer <br>i know cyber security <br>a web developer
 
 
 
