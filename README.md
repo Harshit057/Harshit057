@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am good with Algorithms<br>
-
+Currently working on AI
 
 
 
