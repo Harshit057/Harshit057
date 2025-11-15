@@ -1,7 +1,6 @@
 # About Me
 
-I am a problem-solver drawn to challenging algorithms and currently focused on building impactful AI solutions.
-
+If you reading this, do you really have a life ???????
 ---
 
 ## Socials
