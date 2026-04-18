@@ -1,63 +1,112 @@
-# About Me
+# Harshit Sharma
 
-If you reading this, do you really have a life ???????
----
+```
+> AI Engineer · LLM · RAG · Production ML
+> Building AI systems that actually work in the real world
+```
 
-## Socials
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshit.bd01)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-sharma-a27007253/)
 [![X (Twitter)](https://img.shields.io/badge/X-%231DA1F2.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Harshit13938680)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/harshit.bd01)
 [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/harshit.bd01)
 
 ---
 
-## Tech Stack
+## About
 
-### Programming Languages
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+```python
+harshit = {
+    "role":        "AI Engineer + Full-Stack",
+    "focus":       ["RAG Pipelines", "LLM Evaluation", "Production ML"],
+    "currently":   "Co-founder & AI Engineer @ Makerr.tech",
+    "education":   "B.Tech IT @ AKTU '26",
+    "research":    "AI-driven agriculture predictive modeling",
+    "location":    "Lucknow, India",
+    "status":      "Open to opportunities 🟢",
+}
+```
 
-### Web & App Technologies
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Redux](https://img.shields.io/badge/Redux-593D88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000.svg?style=for-the-badge&logo=mongoose&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+I design and ship AI systems end-to-end — from RAG pipeline architecture to LLM evaluation and production API deployment. I've worked across freelance ML engineering, founding an AI startup, and published undergraduate research on predictive modeling.
 
-### AI & Data Science
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
+---
+
+## AI / ML Stack
+
+![RAG](https://img.shields.io/badge/RAG_Pipelines-000000?style=for-the-badge&logo=bookstack&logoColor=white)
+![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Embeddings](https://img.shields.io/badge/Embeddings_%26_Similarity_Search-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![LMMs](https://img.shields.io/badge/LMMs_%26_LLMs-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+**Frameworks & Tools**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![OpenAI API](https://img.shields.io/badge/OpenAI-412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![LLM](https://img.shields.io/badge/LLM-000000.svg?style=for-the-badge&logo=bookstack&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F.svg?style=for-the-badge&logo=huggingface&logoColor=black)
+![Pandas](https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### Blockchain
-![Solana](https://img.shields.io/badge/Solana-3E52FA.svg?style=for-the-badge&logo=solana&logoColor=white)
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white)
-![Metamask](https://img.shields.io/badge/MetaMask-F6851B.svg?style=for-the-badge&logo=metamask&logoColor=white)
+---
 
-### DevOps, OS & Security
-![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94.svg?style=for-the-badge&logo=kalilinux&logoColor=white)
+## Engineering Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Bash](https://img.shields.io/badge/bash-4EAA25.svg?style=for-the-badge&logo=gnubash&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000.svg?style=for-the-badge&logo=owasp&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### Design & Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+
+## Experience
+
+**🚀 AI/Software Engineer — [Makerr.tech](https://makerr.tech)** *(Self-Employed · Aug 2025 – Mar 2026)*
+> Built and operated a production full-stack AI platform. LLM integrations, scalable RESTful APIs, auth flows, and end-to-end deployment workflows. Core founding member driving product and technical strategy from day zero.
+
+**🤖 Machine Learning Engineer — Alignerr** *(Freelance · Apr 2025 – Aug 2025)*
+> Built Python-based visualizations and heatmaps for complex AI model output analysis. Automated GCP pipelines to generate and serve AI outputs via public APIs.
+
+**🔬 Machine Learning Engineer — Outlier** *(Freelance · Oct 2024 – Apr 2025)*
+> Audited LLM responses on complex STEM tasks — identified and documented reasoning failures. Designed RAG-aware prompts to control retrieval, grounding, and citation behavior in LLM outputs.
+
+---
+
+## Pinned Projects
+
+| Project | Description | Stack |
+|--------|-------------|-------|
+| **[Makerr.tech](https://makerr.tech)** | Production AI platform with scalable backend, auth, and deployment workflows | Node.js · React · Docker · SQL |
+| **Mtchex** | RAG-based resume-to-job matcher with browser automation and pipeline orchestration | Python · RAG · Web Scraping |
+| **AgriAI** | Published research: predictive modeling on raw field data for agricultural decision support | Python · ML · Research |
+| **LLM Eval Suite** | Tooling for auditing LLM outputs on STEM tasks — reasoning failure taxonomy and eval workflows | Python · LLM Evaluation |
+
+---
+
+## Certifications
+
+- 🏅 IBM Certified — Python
+- 🏅 IBM Certified — Big Data Analytics
+- 🏅 IBM Certified — Cyber Defense & Cryptography
+- 🏅 AWS Solutions Architecture Job Simulation (Forage)
+
+---
+
+## Education
+
+**B.Tech in Information Technology** — Dr. A.P.J. Abdul Kalam Technical University (AKTU) *(Sep 2022 – Jun 2026)*
+
+Coursework: Data Structures · Algorithms · Databases · Machine Learning · Computer Systems
+
+---
+
+<p align="center">
+  <i>Building things that think.</i><br/>
+  <code>harshitsharmasncp1.212@email.com</code>
+</p>
