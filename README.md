@@ -26,7 +26,7 @@ harshit = {
 }
 ```
 
-I design and ship AI systems end-to-end — from RAG pipeline architecture to LLM evaluation and production API deployment. I've worked across freelance ML engineering, founding an AI startup, and published undergraduate research on predictive modeling.
+I design and ship AI systems end-to-end — from RAG pipeline architecture to LLM evaluation and production API deployment. I've worked across freelance ML engineering and published undergraduate research on AI-integrated full-stack platform combining NLP, geospatial algorithms (proximity engine), and systems integration.
 
 ---
 
