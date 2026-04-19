@@ -18,7 +18,6 @@
 harshit = {
     "role":        "AI Engineer + Full-Stack",
     "focus":       ["RAG Pipelines", "LLM Evaluation", "Production ML"],
-    "currently":   "Co-founder & AI Engineer @ Makerr.tech",
     "education":   "B.Tech IT @ AKTU '26",
     "research":    "AI-driven agriculture predictive modeling",
     "location":    "Lucknow, India",
