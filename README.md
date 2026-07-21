@@ -1,8 +1,17 @@
 # Harshit Sharma
 
 ```
-> AI Engineer · LLM · RAG · Production ML
-> Building AI systems that actually work in the real world
+Hi, I'm Harshit 👋
+
+AI Engineer specializing in
+
+• Production RAG Systems
+• LLM Evaluation
+• Full Stack Development
+• AI Agents
+• MLOps
+
+Currently looking for Software Engineer / AI Engineer opportunities.
 ```
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harshit-sharma-a27007253/)
